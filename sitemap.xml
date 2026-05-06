@@ -2,171 +2,171 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.ceusdosul.net/qr/equipa/elsa/</loc>
+    <loc>http://localhost:1313/nos/elsa/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/equipa/hugo/</loc>
+    <loc>http://localhost:1313/nos/hugo/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/equipa/monica/</loc>
+    <loc>http://localhost:1313/nos/monica/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/equipa/ana/</loc>
+    <loc>http://localhost:1313/nos/ana/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/agenda/2025/orq0601/</loc>
+    <loc>http://localhost:1313/agenda/2025/orq0601/</loc>
     <lastmod>2025-05-01T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/tags/orq/</loc>
+    <loc>http://localhost:1313/tags/orq/</loc>
     <lastmod>2025-05-01T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-05-01T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/agenda/2025/orq0531/</loc>
+    <loc>http://localhost:1313/agenda/2025/orq0531/</loc>
     <lastmod>2025-04-28T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/tags/artesparticipativas/</loc>
+    <loc>http://localhost:1313/tags/artesparticipativas/</loc>
     <lastmod>2025-03-24T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/tags/artistica/</loc>
+    <loc>http://localhost:1313/tags/artistica/</loc>
     <lastmod>2025-03-24T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/projetos/artistica/bastien/</loc>
+    <loc>http://localhost:1313/projectos/musica/bastien/</loc>
     <lastmod>2025-03-24T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/tags/comunitaria/</loc>
+    <loc>http://localhost:1313/tags/comunitaria/</loc>
     <lastmod>2025-03-24T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/projetos/artistica/diferentemente/</loc>
+    <loc>http://localhost:1313/projectos/artesocial/diferentemente/</loc>
     <lastmod>2025-03-24T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/projetos/participativa/gatilho/</loc>
+    <loc>http://localhost:1313/projectos/artesocial/gatilho/</loc>
     <lastmod>2025-03-24T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/projetos/artistica/inanna/</loc>
+    <loc>http://localhost:1313/projectos/multidisciplinar/inanna/</loc>
     <lastmod>2025-03-24T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/tags/musica/</loc>
+    <loc>http://localhost:1313/tags/musica/</loc>
     <lastmod>2025-03-24T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/tags/opera/</loc>
+    <loc>http://localhost:1313/tags/opera/</loc>
     <lastmod>2025-03-24T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/tags/palavra/</loc>
+    <loc>http://localhost:1313/tags/palavra/</loc>
     <lastmod>2025-03-24T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/tags/teatro/</loc>
+    <loc>http://localhost:1313/tags/teatro/</loc>
     <lastmod>2025-03-24T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/projetos/artistica/transfronteira/</loc>
+    <loc>http://localhost:1313/projectos/artesocial/transfronteira/</loc>
     <lastmod>2025-03-24T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/projetos/artistica/vencer/</loc>
+    <loc>http://localhost:1313/projectos/artesocial/vencer/</loc>
     <lastmod>2025-03-24T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/agenda/2025/orq0406/</loc>
+    <loc>http://localhost:1313/agenda/2025/orq0406/</loc>
     <lastmod>2025-03-06T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/tags/sons/</loc>
+    <loc>http://localhost:1313/tags/sons/</loc>
     <lastmod>2024-10-24T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/agenda/2024/sons1208/</loc>
+    <loc>http://localhost:1313/agenda/2024/sons1208/</loc>
     <lastmod>2024-10-24T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/agenda/2024/orq0324/</loc>
+    <loc>http://localhost:1313/agenda/2024/orq0324/</loc>
     <lastmod>2024-02-24T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/agenda/2024/orq0323/</loc>
+    <loc>http://localhost:1313/agenda/2024/orq0323/</loc>
     <lastmod>2024-02-23T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/agenda/2024/orq0210/</loc>
+    <loc>http://localhost:1313/agenda/2024/orq0210/</loc>
     <lastmod>2024-01-10T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/agenda/2024/orq0209/</loc>
+    <loc>http://localhost:1313/agenda/2024/orq0209/</loc>
     <lastmod>2024-01-09T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/agenda/2023/sons1124/</loc>
+    <loc>http://localhost:1313/agenda/2023/sons1124/</loc>
     <lastmod>2023-10-24T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/agenda/2023/orq0501/</loc>
+    <loc>http://localhost:1313/agenda/2023/orq0501/</loc>
     <lastmod>2023-04-01T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/projetos/artistica/lugar/</loc>
+    <loc>http://localhost:1313/projectos/multidisciplinar/lugar/</loc>
     <lastmod>2023-03-24T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/projetos/participativa/revolucoes/</loc>
-    <lastmod>2023-03-24T08:00:00-07:00</lastmod>
-  </url><url>
-    <loc>https://www.ceusdosul.net/qr/tags/multidisciplinar/</loc>
+    <loc>http://localhost:1313/tags/multidisciplinar/</loc>
     <lastmod>2023-02-24T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/projetos/participativa/seresdereflexo/</loc>
+    <loc>http://localhost:1313/projectos/artesocial/seresdereflexo/</loc>
     <lastmod>2023-02-24T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/agenda/</loc>
+    <loc>http://localhost:1313/agenda/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/projetos/artesvisuais/</loc>
+    <loc>http://localhost:1313/projectos/artesocial/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/projetos/artistica/</loc>
+    <loc>http://localhost:1313/projectos/artesvisuais/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/projetos/participativa/</loc>
+    <loc>http://localhost:1313/circulacao/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/equipa/</loc>
+    <loc>http://localhost:1313/tags/equipa/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/tags/equipa/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/</loc>
+    <loc>http://localhost:1313/impressum/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/impressum/</loc>
+    <loc>http://localhost:1313/projectos/multidisciplinar/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/orquestra/</loc>
+    <loc>http://localhost:1313/projectos/musica/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/privacy/</loc>
+    <loc>http://localhost:1313/nos/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/projetos/</loc>
+    <loc>http://localhost:1313/privacy/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/sons/</loc>
+    <loc>http://localhost:1313/projectos/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/agenda/2022/sons1126/</loc>
+    <loc>http://localhost:1313/projectos/teatro/</loc>
+    <lastmod>2023-01-01T08:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/agenda/2022/sons1126/</loc>
     <lastmod>2022-10-26T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/projetos/participativa/mulherreflexo/</loc>
+    <loc>http://localhost:1313/projectos/artesocial/mulherreflexo/</loc>
     <lastmod>2022-08-24T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/projetos/artistica/gilgamesh/</loc>
+    <loc>http://localhost:1313/projectos/teatro/gilgamesh/</loc>
     <lastmod>2022-03-24T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/agenda/2021/orq0101/</loc>
+    <loc>http://localhost:1313/agenda/2021/orq0101/</loc>
     <lastmod>2020-01-01T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/tags/artesvisuais/</loc>
+    <loc>http://localhost:1313/tags/artesvisuais/</loc>
     <lastmod>2019-05-26T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/projetos/artesvisuais/chamines/</loc>
+    <loc>http://localhost:1313/projectos/artesvisuais/chamines/</loc>
     <lastmod>2019-05-26T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/tags/foto/</loc>
+    <loc>http://localhost:1313/tags/foto/</loc>
     <lastmod>2019-05-26T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/tags/gravura/</loc>
+    <loc>http://localhost:1313/tags/gravura/</loc>
     <lastmod>2019-05-26T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/projetos/artesvisuais/trechos/</loc>
+    <loc>http://localhost:1313/projectos/artesvisuais/trechos/</loc>
     <lastmod>2019-05-26T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.ceusdosul.net/qr/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>

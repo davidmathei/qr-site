@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teatro on Questão Repetida</title>
+    <link>http://localhost:1313/projectos/teatro/</link>
+    <description>Recent content in Teatro on Questão Repetida</description>
+    <generator>Hugo</generator>
+    <language>pt-pt</language>
+    <lastBuildDate>Thu, 24 Mar 2022 08:00:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/projectos/teatro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A epopeia de Gilgamesh</title>
+      <link>http://localhost:1313/projectos/teatro/gilgamesh/</link>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projectos/teatro/gilgamesh/</guid>
+      <description>&lt;h4 id=&#34;categoria-palavra-teatro-de-sombras-e-música&#34;&gt;CATEGORIA: PALAVRA, TEATRO DE SOMBRAS E MÚSICA&lt;/h4&gt;&#xA;&lt;h3 id=&#34;sinopse&#34;&gt;SINOPSE:&lt;/h3&gt;&#xA;&lt;p&gt;Gilgamesh é um dos mais antigos épicos registados, datando de 2000 AC.&#xA;Relata as aventuras do herói e como este supera as circunstâncias mais terríveis.&#xA;Reza a história que Gilgamesh era parte deus, parte humano, e que podia derrotar qualquer inimigo em batalha: até mesmo levantar montanhas.&#xA;Quando Gilgamesh, na sua solidão começa a maltratar o povo de Uruk, os deuses decidem intervir enviando um desafio: Enkidu, o homem selvagem. E aqui começam as aventuras!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

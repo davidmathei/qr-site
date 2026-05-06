@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Foto on Questão Repetida</title>
-    <link>https://www.ceusdosul.net/qr/tags/foto/</link>
+    <link>http://localhost:1313/tags/foto/</link>
     <description>Recent content in Foto on Questão Repetida</description>
     <generator>Hugo</generator>
     <language>pt-pt</language>
     <lastBuildDate>Sun, 26 May 2019 08:00:00 -0700</lastBuildDate>
-    <atom:link href="https://www.ceusdosul.net/qr/tags/foto/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/foto/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Trechos</title>
-      <link>https://www.ceusdosul.net/qr/projetos/artesvisuais/trechos/</link>
+      <link>http://localhost:1313/projectos/artesvisuais/trechos/</link>
       <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.ceusdosul.net/qr/projetos/artesvisuais/trechos/</guid>
+      <guid>http://localhost:1313/projectos/artesvisuais/trechos/</guid>
       <description>&lt;p&gt;CATEGORIA: FOTOGRAFIA&lt;/p&gt;&#xA;&lt;h3 id=&#34;data&#34;&gt;DATA:&lt;/h3&gt;&#xA;&lt;p&gt;[2019] I -A Edição: Polaridades | S.Marcos da Serra&#xA;[2020] I -B Edição: Polaridades | Vila do Bispo&#xA;[2020] II Edição: TRECHOS | Lagoa&#xA;[2021 ] III Edição: TRECHOS | Lagos - Barão de S. João - Bensafrim - Praia da Luz&#xA;[2022] IV Edição: 100 anos sobre a Chegada do Comboio a Lagos | Lagos&lt;/p&gt;&#xA;&lt;h3 id=&#34;local-silves--vila-do-bispo-lagoa-e-lagos&#34;&gt;LOCAL: SILVES,  VILA DO BISPO, LAGOA E LAGOS&lt;/h3&gt;&#xA;&lt;h3 id=&#34;i--trechos-2019&#34;&gt;I  TRECHOS 2019&lt;/h3&gt;&#xA;&lt;p&gt;FALTA&lt;/p&gt;&#xA;&lt;h3 id=&#34;i--trechos-2020&#34;&gt;I  TRECHOS 2020&lt;/h3&gt;&#xA;&lt;p&gt;FALTA&lt;/p&gt;&#xA;&lt;h3 id=&#34;ii-trechos&#34;&gt;II TRECHOS&lt;/h3&gt;&#xA;&lt;p&gt;FALTA&lt;/p&gt;</description>
     </item>
   </channel>
